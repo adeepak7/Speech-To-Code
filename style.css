@@ -1,0 +1,47 @@
+body
+{
+    max-width: 500px;
+    margin: 2em auto;
+    font-size: 20px;
+}
+
+h1
+{
+    text-align: center;
+}
+
+.buttons-wrapper
+{
+    text-align: center;
+}
+
+.hidden
+{
+    display: none;
+}
+
+#transcription{
+    display: block;
+    width: 100%;
+    height: 13em;
+    overflow-y: scroll;
+    border: 1px solid #333333;
+    line-height: 1.3em;
+}
+
+#log
+{
+    display: block;
+    width: 100%;
+    height: 5em;
+    overflow-y: scroll;
+    border: 1px solid #333333;
+    line-height: 1.3em;
+}
+
+.button-demo
+{
+    padding: 0.5em;
+    display: inline-block;
+    margin: 1em auto;
+}
