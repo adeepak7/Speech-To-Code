@@ -7,7 +7,8 @@ Also watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
 * Design of DFA
   * Design the DFA in xelatex using `vaucanson-g` package.
   * Use the following code below for designing a simple DFA:
-   * `  
+    * 
+     `  
         \documentclass{article}
 
         % good old times
