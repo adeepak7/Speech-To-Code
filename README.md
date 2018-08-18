@@ -8,39 +8,39 @@ Also watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
   * Design the DFA in xelatex using `vaucanson-g` package.
   * Use the following code below for designing a simple DFA:
    * 
-   `
-      \documentclass{article}
-      
-       % good old times
-       \usepackage{vaucanson-g}
+    `
+       \documentclass{article}
 
-       \begin{document}
+        % good old times
+        \usepackage{vaucanson-g}
 
-       % first of all, we define our grid
-       \begin{VCPicture}{(0,-3)(6,3)}
+        \begin{document}
 
-       % and then we create the states
-       \State[1]{(3,3)}{STATEA}
-       \State[2]{(0,0)}{STATEB}
-       \State[3]{(6,0)}{STATEC}
+        % first of all, we define our grid
+        \begin{VCPicture}{(0,-3)(6,3)}
 
-       % now, transition time
+        % and then we create the states
+        \State[1]{(3,3)}{STATEA}
+        \State[2]{(0,0)}{STATEB}
+        \State[3]{(6,0)}{STATEC}
 
-       % straight lines
-       \EdgeR{STATEB}{STATEA}{C1}
-       \EdgeR{STATEA}{STATEC}{C2}
-       \EdgeR{STATEB}{STATEC}{C3}
+        % now, transition time
 
-       % arcs
-       \LArcR{STATEA}{STATEB}{C4}
-       \LArcR{STATEC}{STATEA}{C5}
+        % straight lines
+        \EdgeR{STATEB}{STATEA}{C1}
+        \EdgeR{STATEA}{STATEC}{C2}
+        \EdgeR{STATEB}{STATEC}{C3}
 
-       % loops
-       \LoopN{STATEA}{C6}
-       \LoopW{STATEB}{C7}
-       \LoopE{STATEC}{C8}
+        % arcs
+        \LArcR{STATEA}{STATEB}{C4}
+        \LArcR{STATEC}{STATEA}{C5}
 
-       \end{VCPicture}
+        % loops
+        \LoopN{STATEA}{C6}
+        \LoopW{STATEB}{C7}
+        \LoopE{STATEC}{C8}
 
-       \end{document}
-     `
+        \end{VCPicture}
+
+        \end{document}
+      `
