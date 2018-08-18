@@ -42,4 +42,8 @@ Also watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
         \end{VCPicture}
 
         \end{document} 
-      
+
+
+  * Output for the above code:
+    
+    <img src="https://github.com/adeepak7/Speech-To-Code/blob/master/res/Simple_DFA.png" height="200" width="400">
