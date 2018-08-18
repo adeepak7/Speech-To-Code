@@ -8,8 +8,7 @@ Also watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
   * Design the DFA in xelatex using `vaucanson-g` package.
   * Use the following code below for designing a simple DFA:
     * 
-     `  
-        \documentclass{article}
+     `  \documentclass{article}
 
         % good old times
         \usepackage{vaucanson-g}
@@ -42,5 +41,5 @@ Also watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
 
         \end{VCPicture}
 
-        \end{document}
-      `
+        \end{document} `
+      
