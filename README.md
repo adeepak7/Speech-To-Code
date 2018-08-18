@@ -4,5 +4,5 @@ Speech To Code is a Google Chrome Extension designed in JavaScript to convert Sp
 ![](https://github.com/adeepak7/Speech-To-Code/blob/master/res/LEAP.gif)
 Also watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
 # How to contribute?
-*Design of DFA
-  * Design the DFA in xelatex using vaucanson-g package.
+* Design of DFA
+  * Design the DFA in xelatex using `vaucanson-g` package.
