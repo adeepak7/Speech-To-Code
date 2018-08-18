@@ -9,6 +9,7 @@ Also watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
   * Use the following code below for designing a simple DFA:
   
      `  
+        
         \documentclass{article}
 
         % good old times
@@ -42,5 +43,5 @@ Also watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
 
         \end{VCPicture}
 
-        \end{document} `
+        \end{document} 
       
