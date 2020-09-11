@@ -16,6 +16,15 @@
         "maintenance",
         "review"
       ]
+    },
+    {
+      "login": "AnujSande",
+      "name": "AnujSande",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16663749?v=4",
+      "profile": "https://github.com/AnujSande",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
