@@ -25,7 +25,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/adeepak7"><img src="https://avatars2.githubusercontent.com/u/20664587?v=4" width="100px;" alt=""/><br /><sub><b>Deepak Ahire</b></sub></a><br /><a href="https://github.com/adeepak7/Speech-To-Code/commits?author=adeepak7" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/adeepak7"><img src="https://avatars2.githubusercontent.com/u/20664587?v=4" width="100px;" alt=""/><br /><sub><b>Deepak Ahire</b></sub></a><br /><a href="https://github.com/adeepak7/Speech-To-Code/commits?author=adeepak7" title="Code">💻</a> <a href="#ideas-adeepak7" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-adeepak7" title="Maintenance">🚧</a> <a href="https://github.com/adeepak7/Speech-To-Code/pulls?q=is%3Apr+reviewed-by%3Aadeepak7" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
