@@ -1,18 +1,21 @@
 <p align="center">
 <img src="https://github.com/adeepak7/Speech-To-Code/blob/master/Icons/Speech%20To%20Code(128x128).png">
-<br/>
-<h1 align="center">Speech-To-Code</h1>
-<br/>
+</p>
+
+<hr />
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Speech To Code is a Google Chrome Extension designed in JavaScript to convert Speech into Code. The Project was started in Microsoft LEAP Hackathon 2018.<br/><strong>This project aims to help physically challenged people who are passionate about programming so that they can code and contribute for the society.</strong>
-</p>
+[![DeepScan grade](https://deepscan.io/api/teams/9637/projects/12224/branches/186007/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9637&pid=12224&bid=186007)
 
-# Watch the Demo
-## Watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
+
+Speech To Code is a Google Chrome Extension designed in JavaScript to convert Speech into Code. The Project was started in Microsoft LEAP Hackathon 2018.<br/><strong>This project aims to help physically challenged people who are passionate about programming so that they can code and contribute for the society.</strong>
+
+
+## Watch the Demo
+### Watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
 
 ![](https://github.com/adeepak7/Speech-To-Code/blob/master/res/LEAP.gif)
 
