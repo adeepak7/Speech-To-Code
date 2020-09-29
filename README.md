@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://github.com/adeepak7/Speech-To-Code/blob/master/Icons/Speech%20To%20Code(128x128).png"><h1 align="center">Speech To Code</h1>
 </p>
-<hr />
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <p align="center">
@@ -17,7 +16,7 @@ Speech To Code is a Google Chrome Extension designed in JavaScript to convert Sp
 <span>
   
   <a href="https://www.browserstack.com/?from=github.com/adeepak7/CCDSAP-Roadmap">
-      <img src="" alt="BrowerStack" width="300"></a>
+      <img src="https://github.com/adeepak7/Speech-To-Code/blob/master/Icons/browserstack_logo.png" alt="BrowerStack"></a>
 </span>
 
 ## Watch the Demo
