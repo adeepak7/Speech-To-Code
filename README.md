@@ -1,18 +1,24 @@
 <p align="center">
-<img src="https://github.com/adeepak7/Speech-To-Code/blob/master/Icons/Speech%20To%20Code(128x128).png">
+<img src="https://github.com/adeepak7/Speech-To-Code/blob/master/Icons/Speech%20To%20Code(128x128).png"><h1 align="center">Speech To Code</h1>
 </p>
-
 <hr />
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<p align="center">
+  <a href="#contributors-"><img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square" alt="All Contributors"></a>
+  <a href="https://deepscan.io/dashboard#view=project&amp;tid=9637&amp;pid=12224&amp;bid=186007"><img src="https://deepscan.io/api/teams/9637/projects/12224/branches/186007/badge/grade.svg" alt="DeepScan grade"></a>
+</p>  
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-[![DeepScan grade](https://deepscan.io/api/teams/9637/projects/12224/branches/186007/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9637&pid=12224&bid=186007)
-
 
 Speech To Code is a Google Chrome Extension designed in JavaScript to convert Speech into Code. The Project was started in Microsoft LEAP Hackathon 2018.<br/><strong>This project aims to help physically challenged people who are passionate about programming so that they can code and contribute for the society.</strong>
 
+## Sponsors
+
+<span>
+  
+  <a href="https://www.browserstack.com/?from=github.com/adeepak7/CCDSAP-Roadmap">
+      <img src="" alt="BrowerStack" width="300"></a>
+</span>
 
 ## Watch the Demo
 ### Watch on youtube: https://www.youtube.com/watch?v=JevqY-WSOWE
